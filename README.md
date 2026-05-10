@@ -35,7 +35,8 @@
 </div>
 
 <!-- 🖼️ ADD SCREENSHOT: Full app dashboard here -->
-> `[ Screenshot: EuroComply Dashboard — add image here ]`
+> <img width="1140" height="909" alt="image" src="https://github.com/user-attachments/assets/edd7c4da-3a0f-44cd-a298-b6b97078a968" />
+
 
 </div>
 
@@ -118,9 +119,6 @@ Download a full compliance report with citations, risk scores, and your action p
 
 ### Step 1 — Sign In
 
-<!-- 🖼️ ADD SCREENSHOT: Login page -->
-> `[ Screenshot: Login / Register page ]`
-
 Create a free account or sign in. Your analyses and chat history are saved privately to your account — no one else can see your data.
 
 ---
@@ -128,7 +126,7 @@ Create a free account or sign in. Your analyses and chat history are saved priva
 ### Step 2 — Fill in Your Company Profile
 
 <!-- 🖼️ ADD SCREENSHOT: Company Profile form -->
-> `[ Screenshot: Profile form with fields filled in ]`
+> `[ Screenshot: Profile form with fields filled in ]` 
 
 Enter your company details:
 
