@@ -38,7 +38,7 @@
 
 ---
 
-## 🎯 What is EuroComply?
+## What is EuroComply?
 
 EuroComply is an **agentic AI platform** that automatically analyses your company's compliance posture against major EU regulations. Instead of spending weeks with consultants, you get a **prioritised action plan with article-level citations** in under 5 minutes.
 
@@ -114,7 +114,7 @@ Download a full compliance report with citations, risk scores, and your action p
 <img width="400" height="225" alt="EuroComply" src="https://github.com/user-attachments/assets/cd129e40-ed87-4a58-9811-791ffb5f8102" />
 
 
-## 🚀 How to Use EuroComply
+## Get started with EuroComply
 
 ### Step 1 — Sign In
 
