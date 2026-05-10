@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="frontend/public/logo.png" alt="EuroComply Logo" width="90" />
+<img width="1839" height="793" alt="image" src="https://github.com/user-attachments/assets/f224d77e-f7ec-436b-be67-e73b5adb3a87" />
+
 
 # EuroComply
 
@@ -18,7 +19,7 @@
 
 ---
 
-## 🛠️ Built With
+#### 🛠️ Built With
 
 <div align="center">
 
