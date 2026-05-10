@@ -112,8 +112,8 @@ Download a full compliance report with citations, risk scores, and your action p
 | **CSRD** | Corporate Sustainability Reporting Directive | Companies with 250+ employees in the EU | Public disclosure |
 
 ---
-<img width="400" height="225" alt="EuroComply" src="https://github.com/user-attachments/assets/7e594c6f-6568-4e21-83b9-670ced0a5333" />
 
+<img width="400" height="225" alt="EuroComply" src="https://github.com/user-attachments/assets/cd129e40-ed87-4a58-9811-791ffb5f8102" />
 
 
 ## 🚀 How to Use EuroComply
