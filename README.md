@@ -34,8 +34,6 @@
 
 </div>
 
-<!-- 🖼️ ADD SCREENSHOT: Full app dashboard here -->
-
 </div>
 
 ---
@@ -126,8 +124,6 @@ Create a free account or sign in. Your analyses and chat history are saved priva
 
 ### Step 2 — Fill in Your Company Profile
 
-<!-- 🖼️ ADD SCREENSHOT: Company Profile form -->
-> `[ Screenshot: Profile form with fields filled in ]` 
 
 Enter your company details:
 
@@ -151,8 +147,6 @@ Click **▶ Run Analysis** when ready.
 
 ### Step 3 — Watch the AI Work
 
-<!-- 🖼️ ADD SCREENSHOT: Live progress panel during analysis -->
-> `[ Screenshot: Progress panel showing live analysis steps ]`
 
 A live progress panel shows exactly what the AI is doing:
 
@@ -170,9 +164,6 @@ This typically takes **2–5 minutes** depending on the number of applicable reg
 
 ### Step 4 — Review Your Dashboard
 
-<!-- 🖼️ ADD SCREENSHOT: Dashboard overview -->
-> `[ Screenshot: Dashboard with risk summary cards ]`
-
 The dashboard gives you an instant overview:
 
 - **Risk score** across all applicable regulations
@@ -183,9 +174,6 @@ The dashboard gives you an instant overview:
 ---
 
 ### Step 5 — Explore Your Compliance Gaps
-
-<!-- 🖼️ ADD SCREENSHOT: Gaps tab with filters -->
-> `[ Screenshot: Gaps tab with regulation filter and expanded gap card ]`
 
 The **Gaps** tab lists every identified compliance gap:
 
@@ -207,9 +195,6 @@ Each gap shows:
 
 ### Step 6 — Act on Your Action Plan
 
-<!-- 🖼️ ADD SCREENSHOT: Action plan tab -->
-> `[ Screenshot: Action plan with checkboxes and effort estimates ]`
-
 The **Actions** tab turns your gaps into a concrete roadmap:
 
 | Priority | What it means | Effort |
@@ -225,9 +210,6 @@ The **Actions** tab turns your gaps into a concrete roadmap:
 
 ### Step 7 — Chat with the AI About Any Gap
 
-<!-- 🖼️ ADD SCREENSHOT: Chat panel open on an action -->
-> `[ Screenshot: Chat panel with AI answering a question about a specific gap ]`
-
 Click **Ask AI** on any action or gap to open a context-aware chat:
 
 > *"What exactly do we need to do to comply with GDPR Article 35?"*
@@ -242,9 +224,6 @@ The AI has full context of the regulation text, your company profile, and the sp
 
 ### Step 8 — Export & Share
 
-<!-- 🖼️ ADD SCREENSHOT: PDF export button and sample report coverage -->
-> `[ Screenshot: PDF export button and sample first page of report ]`
-
 Download a full **PDF compliance report** that includes:
 - Executive summary with risk overview
 - Complete gap list with article citations
@@ -256,9 +235,6 @@ Share it with your board, legal team, or compliance officer.
 ---
 
 ### Step 9 — Revisit Past Analyses
-
-<!-- 🖼️ ADD SCREENSHOT: History tab -->
-> `[ Screenshot: History tab showing list of past analyses ]`
 
 All your analyses are saved in the **History** tab. Reload any previous analysis instantly — no need to re-run from scratch.
 
