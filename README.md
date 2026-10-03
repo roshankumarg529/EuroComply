@@ -45,7 +45,7 @@ EuroComply is an **agentic AI platform** that automatically analyses your compan
 
 ---
 
-## ⚡ Why EuroComply?
+## ⚡Why EuroComply?
 
 <table>
 <tr>
